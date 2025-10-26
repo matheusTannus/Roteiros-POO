@@ -1,0 +1,14 @@
+C:\Users\alunolab\source\repos\roteiro.6\roteiro.6\bin\Debug\net8.0\roteiro.6.exe
+C:\Users\alunolab\source\repos\roteiro.6\roteiro.6\bin\Debug\net8.0\roteiro.6.deps.json
+C:\Users\alunolab\source\repos\roteiro.6\roteiro.6\bin\Debug\net8.0\roteiro.6.runtimeconfig.json
+C:\Users\alunolab\source\repos\roteiro.6\roteiro.6\bin\Debug\net8.0\roteiro.6.dll
+C:\Users\alunolab\source\repos\roteiro.6\roteiro.6\bin\Debug\net8.0\roteiro.6.pdb
+C:\Users\alunolab\source\repos\roteiro.6\roteiro.6\obj\Debug\net8.0\roteiro.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab\source\repos\roteiro.6\roteiro.6\obj\Debug\net8.0\roteiro.6.AssemblyInfoInputs.cache
+C:\Users\alunolab\source\repos\roteiro.6\roteiro.6\obj\Debug\net8.0\roteiro.6.AssemblyInfo.cs
+C:\Users\alunolab\source\repos\roteiro.6\roteiro.6\obj\Debug\net8.0\roteiro.6.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\source\repos\roteiro.6\roteiro.6\obj\Debug\net8.0\roteiro.6.dll
+C:\Users\alunolab\source\repos\roteiro.6\roteiro.6\obj\Debug\net8.0\refint\roteiro.6.dll
+C:\Users\alunolab\source\repos\roteiro.6\roteiro.6\obj\Debug\net8.0\roteiro.6.pdb
+C:\Users\alunolab\source\repos\roteiro.6\roteiro.6\obj\Debug\net8.0\roteiro.6.genruntimeconfig.cache
+C:\Users\alunolab\source\repos\roteiro.6\roteiro.6\obj\Debug\net8.0\ref\roteiro.6.dll

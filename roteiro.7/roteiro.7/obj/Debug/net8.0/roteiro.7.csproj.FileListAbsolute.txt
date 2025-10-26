@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\RoteirosPOO\roteiro.7\roteiro.7\bin\Debug\net8.0\roteiro.7.exe
+C:\Users\User\Desktop\RoteirosPOO\roteiro.7\roteiro.7\bin\Debug\net8.0\roteiro.7.deps.json
+C:\Users\User\Desktop\RoteirosPOO\roteiro.7\roteiro.7\bin\Debug\net8.0\roteiro.7.runtimeconfig.json
+C:\Users\User\Desktop\RoteirosPOO\roteiro.7\roteiro.7\bin\Debug\net8.0\roteiro.7.dll
+C:\Users\User\Desktop\RoteirosPOO\roteiro.7\roteiro.7\bin\Debug\net8.0\roteiro.7.pdb
+C:\Users\User\Desktop\RoteirosPOO\roteiro.7\roteiro.7\obj\Debug\net8.0\roteiro.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\RoteirosPOO\roteiro.7\roteiro.7\obj\Debug\net8.0\roteiro.7.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\RoteirosPOO\roteiro.7\roteiro.7\obj\Debug\net8.0\roteiro.7.AssemblyInfo.cs
+C:\Users\User\Desktop\RoteirosPOO\roteiro.7\roteiro.7\obj\Debug\net8.0\roteiro.7.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RoteirosPOO\roteiro.7\roteiro.7\obj\Debug\net8.0\roteiro.7.sourcelink.json
+C:\Users\User\Desktop\RoteirosPOO\roteiro.7\roteiro.7\obj\Debug\net8.0\roteiro.7.dll
+C:\Users\User\Desktop\RoteirosPOO\roteiro.7\roteiro.7\obj\Debug\net8.0\refint\roteiro.7.dll
+C:\Users\User\Desktop\RoteirosPOO\roteiro.7\roteiro.7\obj\Debug\net8.0\roteiro.7.pdb
+C:\Users\User\Desktop\RoteirosPOO\roteiro.7\roteiro.7\obj\Debug\net8.0\roteiro.7.genruntimeconfig.cache
+C:\Users\User\Desktop\RoteirosPOO\roteiro.7\roteiro.7\obj\Debug\net8.0\ref\roteiro.7.dll
